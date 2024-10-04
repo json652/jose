@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.menu {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    color: #e9d700;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+
+.content {
+    text-align: justify;
+    left: 70%;
+    right: 40%;
+    padding: 40px 100px;
+    
+}
+
+.content aside ul {
+    text-align: justify;
+    
+}
+
